@@ -29,4 +29,4 @@ else {
 	ns.tprint("Befehl nicht verstanden...");
 }
 
-}
+}asdadadasd
